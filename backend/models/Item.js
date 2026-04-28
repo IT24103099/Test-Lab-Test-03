@@ -27,6 +27,12 @@ const itemSchema = new mongoose.Schema(
       default: "",
       trim: true,
     },
+    discount:{
+      type:Number,
+      default:0,
+      min:[0,"Discount cannot be negative"],
+      max:[100,"Discount cannot be more than 100"]
+    }
   },
   { timestamps: true }
 );
