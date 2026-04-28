@@ -1,8 +1,11 @@
-#Mongodb - himakauthpala14@gmail.com - Himz@2004 - Google
+#Mongodb , #Render , #Vercel - himakauthpala14@gmail.com - Himz@2004 - Google
 
+#github - it24103099@my.sliit.lk - Himz@123#
 
-#Render - himakauthpala14@gmail.com - Himz@2004 - Google
-
-
-#vercel - himakauthpala14@gmail.com - Himz@2004 - Google
-
+Git clone : repo link ,
+git status , 
+git add .  ,
+git commit -m “Initialization ” , 
+git push origin , 
+All codes go to github , 
+After code update start again from git add .  ,
